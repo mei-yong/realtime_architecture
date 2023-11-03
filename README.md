@@ -8,6 +8,8 @@
 - [https://github.com/morganmazouchi/Delta-Live-Tables-Hands-on-Workshop/tree/main/notebooks]
 - [https://github.com/shannon-barrow/databricks-tpc-di]
 - [https://github.com/alexott/dlt-files-in-repos-demo]
+- Databricks optimisation
+- [https://docs.databricks.com/en/optimizations/index.html]
 - Data lake terminology
 - Data lake modelling consideration list + examples
 - Kafka end to end (Confluent)
