@@ -2,6 +2,8 @@
 -- MAGIC %md
 -- MAGIC When creating the pipeline add the following configuration to point to the data source:
 -- MAGIC 
+-- MAGIC [https://github.com/morganmazouchi/Delta-Live-Tables-Hands-on-Workshop/blob/main/notebooks/02.%20Building%20Delta%20Live%20Tables%20Pipelines-SQL.sql]
+-- MAGIC 
 -- MAGIC `data_source_path` : `/databricks-datasets/online_retail/data-001/`
 
 -- COMMAND ----------
