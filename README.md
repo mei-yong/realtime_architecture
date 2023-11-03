@@ -2,7 +2,6 @@
 
 - Poetry - done
 - unit testing - done
-- Azure sandbox
 - lambda architecture using Databricks & Deltalake (delta live tables)
 - Databricks Unity - done [https://medium.com/@hwangdb/azure-databricks-unity-catalog-part-1-uc-concepts-and-components-2d713f4cb423] 
 - Data lake terminology
